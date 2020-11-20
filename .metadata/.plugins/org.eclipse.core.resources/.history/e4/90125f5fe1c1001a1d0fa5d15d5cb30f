@@ -1,0 +1,10 @@
+
+public class Proxy extends Subject {
+
+	@Override
+	public void doSomeWork() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

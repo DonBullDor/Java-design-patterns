@@ -1,0 +1,16 @@
+
+public class Tiger implements Animal {
+
+	@Override
+	public void speak() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void preferredAction() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
